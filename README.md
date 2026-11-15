@@ -9,6 +9,8 @@ Criado por Pedro Tofo, Caravela Studio.
 
 **[⬇ Baixar a versão mais recente](https://github.com/pedrotofo/caravela-logger/releases/latest)**
 
+![A tela principal do Caravela Logger: o que tem no cartão, separado por trabalho](docs/tela-principal.png)
+
 ---
 
 ## O que dá para fazer
