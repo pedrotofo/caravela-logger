@@ -51,7 +51,16 @@ Criado por Pedro Tofo, Caravela Studio.
 
 Depois de instalado, o programa fica ao lado do relógio e **se atualiza sozinho** quando sai uma versão nova.
 
-Para o iPhone, o Windows precisa do programa **Dispositivos Apple** (gratuito na Microsoft Store) ou do iTunes.
+### Para fazer backup do iPhone
+
+- **Programa da Apple no Windows:** o **Dispositivos Apple** (gratuito na Microsoft Store) ou o **iTunes**. Sem ele, o Windows não enxerga as fotos do iPhone.
+- **Um cabo que passa dados:** alguns cabos só carregam.
+- **iPhone destravado** e, na primeira vez, tocar em **Confiar** neste computador.
+- **Bloqueio automático desligado durante a cópia** (Ajustes › Tela e Brilho › Bloqueio Automático › Nunca): quando a tela bloqueia, a cópia para.
+
+O programa mostra esses requisitos na tela inicial e avisa se faltar o programa da Apple.
+
+Cartões, câmeras, drones e Insta360 não precisam de nada disso. SSDs e HDs externos são ignorados.
 
 ## Privacidade
 
