@@ -1,9 +1,9 @@
 # Caravela Logger
 
 **Backup de fotos e vídeos para quem fotografa e filma, no Windows.**
-Conecte o cartão, a câmera ou o iPhone: o Caravela Logger mostra o que tem nele, separa o material por
+Conecte o cartão ou a câmera: o Caravela Logger mostra o que tem nele, separa o material por
 trabalho, copia para a pasta certa, confere cada arquivo com o original e deixa tudo pronto para editar.
-Ele nunca apaga nada do cartão ou do aparelho.
+Ele nunca apaga nada do cartão.
 
 Criado por Pedro Tofo, Caravela Studio.
 
@@ -27,13 +27,12 @@ Criado por Pedro Tofo, Caravela Studio.
 - Ver como a pasta vai ficar antes de copiar.
 - Deixar um trabalho no cartão para copiar depois.
 
-**Com o iPhone (pelo cabo)**
-- Fazer o backup do rolo de câmera: hoje, este mês, tudo, ou só o que entrou desde o último backup.
-- Guardar numa pasta com o nome que você quiser, organizada por ano e mês, com cada arquivo nomeado pela
-  data e hora em que foi feito.
-- Manter Live Photos e fotos editadas junto da original. Capturas de tela e imagens de outros apps vão
-  numa subpasta própria.
-- No final, ver o passo a passo para liberar espaço no iPhone com segurança (com o aviso sobre o iCloud).
+**Reconhece sozinho o que foi conectado**
+- Câmeras: Sony (Alpha, FX, Venice), Canon (fotográficas e Cinema EOS), Panasonic (Lumix e P2), Fujifilm, Nikon, Leica, OM System.
+- Cinema: Blackmagic (BRAW), RED (R3D), ARRI, Canon Cinema RAW.
+- Drones e câmeras de ação: DJI, GoPro, Insta360.
+- Gravadores de áudio (Zoom, Tascam e outros) e gravadores externos.
+- SSDs e HDs externos são ignorados, a não ser que sejam o disco de gravação de uma câmera de cinema (BRAW, RED, ARRI).
 
 **Em toda cópia**
 - Conferir cada arquivo com o original depois de copiar. Nada é dado como copiado sem conferência.
@@ -50,17 +49,6 @@ Criado por Pedro Tofo, Caravela Studio.
    clique em **Mais informações** e depois em **Executar assim mesmo**.
 
 Depois de instalado, o programa fica ao lado do relógio e **se atualiza sozinho** quando sai uma versão nova.
-
-### Para fazer backup do iPhone
-
-- **Programa da Apple no Windows:** o **Dispositivos Apple** (gratuito na Microsoft Store) ou o **iTunes**. Sem ele, o Windows não enxerga as fotos do iPhone.
-- **Um cabo que passa dados:** alguns cabos só carregam.
-- **iPhone destravado** e, na primeira vez, tocar em **Confiar** neste computador.
-- **Bloqueio automático desligado durante a cópia** (Ajustes › Tela e Brilho › Bloqueio Automático › Nunca): quando a tela bloqueia, a cópia para.
-
-O programa mostra esses requisitos na tela inicial e avisa se faltar o programa da Apple.
-
-Cartões, câmeras, drones e Insta360 não precisam de nada disso. SSDs e HDs externos são ignorados.
 
 ## Privacidade
 
